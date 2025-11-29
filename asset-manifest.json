@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/presupuestos-app/static/css/main.e6c13ad2.css",
+    "main.js": "/presupuestos-app/static/js/main.2ba7a98e.js",
+    "static/js/239.881c5919.chunk.js": "/presupuestos-app/static/js/239.881c5919.chunk.js",
+    "static/js/977.db153481.chunk.js": "/presupuestos-app/static/js/977.db153481.chunk.js",
+    "static/js/455.9899af77.chunk.js": "/presupuestos-app/static/js/455.9899af77.chunk.js",
+    "static/js/453.0532e0a1.chunk.js": "/presupuestos-app/static/js/453.0532e0a1.chunk.js",
+    "index.html": "/presupuestos-app/index.html",
+    "main.e6c13ad2.css.map": "/presupuestos-app/static/css/main.e6c13ad2.css.map",
+    "main.2ba7a98e.js.map": "/presupuestos-app/static/js/main.2ba7a98e.js.map",
+    "239.881c5919.chunk.js.map": "/presupuestos-app/static/js/239.881c5919.chunk.js.map",
+    "977.db153481.chunk.js.map": "/presupuestos-app/static/js/977.db153481.chunk.js.map",
+    "455.9899af77.chunk.js.map": "/presupuestos-app/static/js/455.9899af77.chunk.js.map",
+    "453.0532e0a1.chunk.js.map": "/presupuestos-app/static/js/453.0532e0a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2ba7a98e.js"
+  ]
+}
